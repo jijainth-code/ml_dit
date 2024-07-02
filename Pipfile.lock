@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "47f511b0eb1f6c579cafed415e6e379e9e166e59679fcbc110c4fde9f27987c7"
+            "sha256": "bd886c2da6cde8f18813ff30810f121aef7d561a630101fb4d216c03f397b3aa"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -239,6 +239,19 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==1.4.5"
+        },
+        "lightgbm": {
+            "hashes": [
+                "sha256:460dd78586dccfc0ed756571690fcfcd3d61770ed7972746c655c3b11cce8a93",
+                "sha256:8700b41f637717d36763a282d280b8d4722a87103030b7f0f373b96da0225022",
+                "sha256:9e8a7640911481134e60987d5d1e1cd157f430c3b4b38de8d36fc55c302bc299",
+                "sha256:a04875e4c0ffda7c67a0ab5bd8892f154a491833f4f5b39c4acf5b3add099699",
+                "sha256:d96b06c85f0840da95bbbf31a095b207186bb0e584cee0fe2f2e7f24fb07c70f",
+                "sha256:f51f17a10ef9b4669b9c95a2297213b57debbc9deadfe5c1489a7f3c9e2617c5"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==4.4.0"
         },
         "matplotlib": {
             "hashes": [
@@ -571,6 +584,21 @@
             ],
             "markers": "python_version >= '2'",
             "version": "==2024.1"
+        },
+        "xgboost": {
+            "hashes": [
+                "sha256:19d145eb847b070c32342b1bf2d7331c102783e07a484f8b13b7d759d707c6b0",
+                "sha256:43b16205689249d7509daf7a6ab00ad0e6c570b3a9c263cb32b26e39d9477bb3",
+                "sha256:7144980923e76ce741c7b03a14d3bd7514db6de5c7cabe96ba95b229d274f5ca",
+                "sha256:73673c9bb85927db7fe2e3aed6df6d35dba708cfd6767cc63d4ea11dda2dede5",
+                "sha256:74904b91c42524a6c32147fe5718569e78fb65911ff4499b053f81d0964514d4",
+                "sha256:840a0c6e2119d8c8f260a5dace996ea064a267f62b301a25d7d452488a7ac860",
+                "sha256:b2a456eb0f3d3e8fd8ab37e44ac288292bf8ea8744c294be9fd88713d27af810",
+                "sha256:cedc2e386e686795735448fd4597533acacc5ba6fb47dd910c204c468b80bb96"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==2.1.0"
         }
     },
     "develop": {
